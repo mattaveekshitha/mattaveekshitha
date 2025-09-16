@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Veekshitha  
 
-<!--
-**mattaveekshitha/mattaveekshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Development Intern at SkillCraft Technology  
+🎓 Computer Science Student at Gokaraju Lailavathi Women’s Engineering College  
 
-Here are some ideas to get you started:
+## 🚀 Skills  
+- HTML | CSS | JavaScript  
+- SQL | Python  
+- Web Development & Problem Solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+- LinkedIn: https://www.linkedin.com/in/veekshitha-matta-a64812374/ 
+- Email: mattaveekshitha26@gmail.com
