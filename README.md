@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Veekshitha  
 
-💻 Web Development Intern at SkillCraft Technology  
+💻 machine learning and data scienc intern at infotact solutions 
 🎓 Computer Science Student at Gokaraju Lailavathi Women’s Engineering College  
 
 ## 🚀 Skills  
