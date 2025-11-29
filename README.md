@@ -4,9 +4,9 @@
 🎓 Computer Science Student at Gokaraju Lailavathi Women’s Engineering College  
 
 ## 🚀 Skills  
-- HTML | CSS | JavaScript  
-- SQL | Python  
-- Web Development & Problem Solving  
+- python | C | Java
+- Machine Learning | Data science
+- SQL | web development
 
 ## 📫 Connect with Me  
 - LinkedIn: https://www.linkedin.com/in/veekshitha-matta-a64812374/ 
